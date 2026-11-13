@@ -94,40 +94,38 @@ GET /books?search_q=harry&order_by=price&order=ASC&limit=5&offset=0&min_price=10
 
 ## Screenshots
 
-The screenshots below are stored in the `Screenshots` folder. The image links use the exact filenames supplied.
-
 ### 1. GET All Books
-![GET All Books](Screenshots/httplocalhost3000books.png)
+![GET All Books](sreenshot/httplocalhost3000books.png)
 
 ### 2. GET Book by ID (ID: 8)
-![GET Book by ID](Screenshots/httplocalhost3000books8.png)
+![GET Book by ID](sreenshot/httplocalhost3000books8.png)
 
 ### 3. POST - Create Book
-![POST Create Book](Screenshots/httplocalhost3000booksadd.png)
+![POST Create Book](sreenshot/httplocalhost3000booksadd.png)
 
 ### 4. PUT - Update Book (ID: 8)
-![PUT Update Book](Screenshots/httplocalhost3000books8put.png)
+![PUT Update Book](sreenshot/httplocalhost3000books8put.png)
 
 ### 5. DELETE - Delete Book (ID: 8)
-![DELETE Book](Screenshots/httplocalhost3000books8delete.png)
+![DELETE Book](sreenshot/httplocalhost3000books8delete.png)
 
 ### 6. Search Books
-![Search Books](Screenshots/httplocalhost3000bookssearch_q=The.png)
+![Search Books](sreenshot/httplocalhost3000bookssearch_q%3DThe.png)
 
 ### 7. Sort Books and Pagination
-![Sort Books and Pagination](Screenshots/httplocalhost3000booksorder_by=price&order=DESC&limit=4&offset=0.png)
+![Sort Books and Pagination](sreenshot/httplocalhost3000booksorder_by%3Dprice%26order%3DDESC%26limit%3D4%26offset%3D0.png)
 
 ### 8. Filter Books by Price
-![Price Filter](Screenshots/httplocalhost3000booksmin_price=200&max_price=350.png)
+![Price Filter](sreenshot/httplocalhost3000booksmin_price%3D200%26max_price%3D350.png)
 
 ### 9. Book Not Found after Deletion (404)
-![Book Not Found after Deletion](Screenshots/httplocalhost3000books8notfound.png)
+![Book Not Found after Deletion](sreenshot/httplocalhost3000books8notfound.png)
 
 ### 10. Book ID Not Found (404)
-![Book ID Not Found](Screenshots/httplocalhost3000books999.png)
+![Book ID Not Found](sreenshot/httplocalhost3000books999.png)
 
 ### 11. Validation Error (400)
-![Validation Error](Screenshots/httplocalhost3000bookspost.png)
+![Validation Error](sreenshot/httplocalhost3000bookspost.png)
 
 **Note:** A screenshot showing the server running in the terminal was not among the uploaded screenshots, so it has not been added or given a made-up filename.
 
