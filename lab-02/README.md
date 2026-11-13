@@ -257,25 +257,26 @@ All user-provided SQL values are passed using `?` placeholders. This keeps input
 
 ## Screenshots
 
-Add your actual screenshots in the `screenshots/` folder.
-
 ### GET All Books
-`get-all-books.png`
+![GET All Books](<screenshots/GET – All Books.png>)
 
 ### GET One Book
-`get-one-book.png`
+![GET One Book](<screenshots/GET – Book by ID.png>)
 
 ### POST a Book
-`post-book.png`
+![POST a Book](<screenshots/POST – Add Book.png>)
 
 ### PUT a Book
-`put-book.png`
+![PUT a Book](<screenshots/PUT – Update Book.png>)
 
 ### DELETE a Book
-`delete-book.png`
+![DELETE a Book](<screenshots/DELETE – Delete Book.png>)
+
+### Verify Book Deleted
+![Verify Book Deleted](<screenshots/GET – Verify Book Deleted.png>)
 
 ### SQLite Database Verification
-`database-verification.png`
+![Database Verification](<screenshots/database-verification.png.png>)
 
 ## Notes / Problems Faced
 
