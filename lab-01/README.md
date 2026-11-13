@@ -33,15 +33,15 @@ To create a basic HTTP server using Node.js and an Express server with multiple 
 
 ## Screenshots
 
-![HTTP Server](Screenshot 2026-11-06 203923)
+![HTTP Server](screenshot/Screenshot%202026-11-06%20203923.png)
 
-![Home](localhost3000)
+![Home](screenshot/localhost3000.png)
 
-![About](localhost3000about)
+![About](screenshot/localhost3000about.png)
 
-![Time](localhost3000time)
+![Time](screenshot/localhost3000time.png)
 
-![404](localhost3000contact)
+![404](screenshot/localhost3000contact.png)
 
 ## Conclusion
 Successfully created a Node.js HTTP server and an Express server with multiple GET routes and a 404 handler.
