@@ -38,13 +38,9 @@ Environment variables: none required (optional `PORT`, default 3000). The JWT se
 ## Screenshots
 
 ![Register](register_success.png)
-
 ![Invalid User](invalid_user.png)
-
 ![Invalid Password](invalid_password.png)
-
 ![Login Success](login_success.png)
-
 ![JWT Decoded](jwt_decoded.png)
 
 ## Notes
