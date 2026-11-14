@@ -37,17 +37,19 @@ Environment variables: none required (optional `PORT`, default 3000). The JWT se
 
 ## Screenshots
 
-![Register](screenshots/register_success.png)
+## Screenshots
 
-![Invalid User](screenshots/invalid_user.png)
+![Register](screenshots/Registered%20a%20user.png)
 
-![Invalid Password](screenshots/invalid_password.png)
+![Invalid User](screenshots/invalid%20user.png)
 
-![Login Success](screenshots/login_success.png)
+![Invalid Password](screenshots/Invalid%20password.png)
 
-![JWT Decoded](screenshots/jwt_decoded.png)
+![Login Success](screenshots/Logged%20in%20with%20username%20and%20password..png)
 
-![Database View](screenshots/database_view.png)
+![JWT Decoded](screenshots/JWT%20decoded%20on%20JWT.io.png)
+
+![Database View](screenshots/Database%20View.png)
 
 ## Notes
 - **Request body undefined:** `app.use(express.json())` is required, and the Postman body must be raw JSON.
